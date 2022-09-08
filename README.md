@@ -4,7 +4,7 @@
 
 ## How to use
 
-### With NPXв
+### With NPX
 
 ```bash
 npx @vkontakte/create-vk-mini-app [app-directory-name] [options]
